@@ -1,4 +1,4 @@
 # CodeForces
 
-Will be posting regularly,
-Solutions to the contest.
+Will be posting regularly.
+
