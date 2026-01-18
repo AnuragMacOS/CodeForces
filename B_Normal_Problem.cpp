@@ -12,9 +12,21 @@ using pii = pair<int, int>;
 #define pb push_back
 
 void solve() {
+    string s;
+    cin >> s;
+
+    for(int i = 0; i< sz(s);i++){
+        if(s[i]=='p'){
+             s[i] = 'q';
+        } 
+        else if(s[i]=='q') s[i]= 'p';
+    }
+    reverse(all(s));
+    cout<<s<<endl;
+    }
     
     
-}
+
 
 int main() {
     ios::sync_with_stdio(false);
