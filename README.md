@@ -1,3 +1,3 @@
 # CodeForces
 
-Will be posting regularly...
+Will be posting regularly.
