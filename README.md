@@ -1,3 +1,3 @@
 # CodeForces
 
-Codeforces codes....
+Codeforces codes..
